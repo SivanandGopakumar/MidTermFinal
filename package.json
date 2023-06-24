@@ -1,0 +1,27 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "This is Sivanand Gopakumar and my student id: 301239208",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SivanandGopakumar/MidTerm.git"
+  },
+  "author": "Sivanand Gopakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SivanandGopakumar/MidTerm/issues"
+  },
+  "homepage": "https://github.com/SivanandGopakumar/MidTerm#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0",
+    "nodemon": "^2.0.22"
+  }
+
+  
+}
